@@ -20,4 +20,7 @@ Se você concluiu o curso, adicione seu nome e uma de suas páginas sociais (por
 | Isabella Vieira Barbosa | [GitHub](https://github.com/Bella5900g/) |
 | Vinicius Henrique Arrais Rosa | [GitHub](https://github.com/Vinicius-vhar) | 
 | MAtheus w f garcia | [github](https://github.com/Mgarcia0029) | 
+| Francisca Fabiana Chaves | [LinkedIn](https://www.linkedin.com/in/francisca-fabiana-chaves-bezerra-7b5148237) |
+| Hector Carlos Frigo | [LinkedIn](https://www.linkedin.com/in/hectorfrigoo) |
+
 
