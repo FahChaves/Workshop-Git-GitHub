@@ -11,3 +11,5 @@ Se você concluiu o curso, adicione seu nome e uma de suas páginas sociais (por
 |Nome Completo| Endereço URL | 
 |--|--| 
 | João Carlos Barsanelli | [LinkedIn](https://www.linkedin.com/in/joão-carlos-barsanelli) |
+Francisca Fabiana Chaves | [LinkedIn](https://www.linkedin.com/in/francisca-fabiana-chaves-bezerra-7b5148237) |
+
